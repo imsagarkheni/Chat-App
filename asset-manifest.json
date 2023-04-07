@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/Chat-App/static/js/main.c2f2feb6.js",
+    "static/css/431.74c004eb.chunk.css": "/Chat-App/static/css/431.74c004eb.chunk.css",
+    "static/js/431.002b7b86.chunk.js": "/Chat-App/static/js/431.002b7b86.chunk.js",
+    "static/js/207.c3fc3770.chunk.js": "/Chat-App/static/js/207.c3fc3770.chunk.js",
+    "static/js/678.8a7704c8.chunk.js": "/Chat-App/static/js/678.8a7704c8.chunk.js",
+    "static/js/787.35cea4b2.chunk.js": "/Chat-App/static/js/787.35cea4b2.chunk.js",
+    "static/js/631.8197571d.chunk.js": "/Chat-App/static/js/631.8197571d.chunk.js",
+    "static/js/615.20f0d4bd.chunk.js": "/Chat-App/static/js/615.20f0d4bd.chunk.js",
+    "static/media/2.png": "/Chat-App/static/media/2.dac76a89f30f406e68e9.png",
+    "static/media/logo.ico": "/Chat-App/static/media/logo.45af386bcce066c1c6ab.ico",
+    "static/media/abstract.jpg": "/Chat-App/static/media/abstract.07a663f5cf4bbb43a77c.jpg",
+    "index.html": "/Chat-App/index.html",
+    "main.c2f2feb6.js.map": "/Chat-App/static/js/main.c2f2feb6.js.map",
+    "431.74c004eb.chunk.css.map": "/Chat-App/static/css/431.74c004eb.chunk.css.map",
+    "431.002b7b86.chunk.js.map": "/Chat-App/static/js/431.002b7b86.chunk.js.map",
+    "207.c3fc3770.chunk.js.map": "/Chat-App/static/js/207.c3fc3770.chunk.js.map",
+    "678.8a7704c8.chunk.js.map": "/Chat-App/static/js/678.8a7704c8.chunk.js.map",
+    "787.35cea4b2.chunk.js.map": "/Chat-App/static/js/787.35cea4b2.chunk.js.map",
+    "631.8197571d.chunk.js.map": "/Chat-App/static/js/631.8197571d.chunk.js.map",
+    "615.20f0d4bd.chunk.js.map": "/Chat-App/static/js/615.20f0d4bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c2f2feb6.js"
+  ]
+}
